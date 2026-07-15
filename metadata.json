@@ -1,0 +1,8 @@
+{
+  "name": " 盤上遊戯【ver07081424】",
+  "description": "難易度選択つき将棋風2Dテーブルゲームのゲーム仕様書を作成・保存するプロジェクト",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
